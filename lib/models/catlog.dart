@@ -74,7 +74,7 @@ class Item {
   //  };
 
 
-     // hya methods dart data class generetor use kru anlya ahet 
+     // hya methods dart data class generetor use krun anlya ahet 
      // use this command command + shift + p 
     // the use  >dart genrate  class
   Item copyWith({
